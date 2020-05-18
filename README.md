@@ -1,1 +1,3 @@
 MonthPickerSwiftUI
+
+![](source/picker.gif)
